@@ -1,8 +1,6 @@
 # MongoDB Sharded Cluster
 Process for creation of a MongoDB Sharded Cluster based on Docker containers on local machine. For now on, all storage is inside container, so it is not recommended to be used on a production environment, but this can be changed by mapping volumes on instances.
 
-Distribution
-
 This tutorial is based on description from https://docs.mongodb.com/manual/tutorial/deploy-shard-cluster/
 
 ## Creating Docker Network
